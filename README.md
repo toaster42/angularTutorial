@@ -1,5 +1,11 @@
 # angularTutorial
 **Current Step:** 
+[Lesson 12](https://angular.io/tutorial/first-app/first-app-lesson-12) Adding a form
+
+This lesson demonstrates how to add a form that collects user data to an Angular app. The data that the form collects is sent only to the app's service, which writes it to the browser's console. (Why?)
+Using a REST API to send and receive the form's data is not covered in this lesson.
+
+**Past Step(s):** 
 [Lesson 11](https://angular.io/tutorial/first-app/first-app-lesson-11) Integrate details page
 
 At the end of this lesson your application will have support for routing to the details page.
@@ -9,8 +15,6 @@ Each housing location has specific details that should be displayed when a user 
 Route parameters enable you to include dynamic information as a part of your route URL. To identify which housing location a user has clicked on you will use the id property of the HousingLocation type.
 
 
-
-**Past Step(s):** 
 [Lesson 10](https://angular.io/tutorial/first-app/first-app-lesson-10) Routing in Angular
 
 Routing is the ability to navigate from one component in the application to another. In Single Page Applications (SPA), only parts of the page are updated to represent the requested view for the user.
